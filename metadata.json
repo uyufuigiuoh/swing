@@ -1,0 +1,6 @@
+{
+  "name": "Copy of Run Chase",
+  "description": "An arcade cricket game which uses the Gemini Live API to dynamically generate commentary on the game",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
